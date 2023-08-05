@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxivega0&label=Profile%20views&color=0e75b6&style=flat" alt="maxivega0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxivega0" alt="maxivega0" /></a> </p>
 
 - 📫 Como contactarme **maxi030vega@gmail.com**
 
